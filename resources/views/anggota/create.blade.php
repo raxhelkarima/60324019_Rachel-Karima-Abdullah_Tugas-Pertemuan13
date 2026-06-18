@@ -30,12 +30,11 @@
                                    name="kode_anggota" 
                                    id="kode_anggota" 
                                    class="form-control @error('kode_anggota') is-invalid @enderror"
-                                   value="{{ old('kode_anggota') }}"
-                                   placeholder="Contoh: AGT-001">
+                                   value="{{ old('kode_anggota', $kodeAnggota) }}"
+                                   readonly>
                             @error('kode_anggota')
                                 <div class="invalid-feedback">{{ $message }}</div>
                             @enderror
-                            <small class="text-muted">Format: AGT-XXX</small>
                         </div>
                         
                         {{-- Nama --}}

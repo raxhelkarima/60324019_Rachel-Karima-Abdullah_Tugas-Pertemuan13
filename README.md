@@ -1,13 +1,11 @@
-# 60324019_Rachel-Karima-Abdullah_Tugas-Pertemuan12
+# 60324019_Rachel-Karima-Abdullah_Tugas-Pertemuan13
 
-## 1. Validation Rules Advanced
-![Validation Rules Advanced](screenshots/validasi-rule-advance.png)
+## 1. Auto-Generate Kode Anggota 
+![Auto Generate Kode Anggota](screenshots/auto-generate-kode.png)
 
-## 2. Bulk Delete Operations
-![Bulk Delete Selection](screenshots/select-bulk-delete.png)
-![Bulk Delete Confirmation](screenshots/konfirmasi-bulk-delete.png)
-![Bulk Delete Success](screenshots/hasil-bulk-delete.png)
+## 2. Export Anggota ke Excel
+![Export Excel Button](screenshots/export-excel.png)
+![Isi File Excel](screenshots/isi-file-excel.png)
 
-## 3. Export Buku ke CSV
-![Export to CSV](screenshots/dwonloadCSV.png)
-![CSV Content](screenshots/hasilCSV.png)
+## 3. Advanced Search & Filter 
+![Form Search & Filter](screenshots/hasil-search-filter.png)
